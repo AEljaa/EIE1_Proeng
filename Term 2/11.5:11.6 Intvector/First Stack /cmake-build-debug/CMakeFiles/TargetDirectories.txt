@@ -1,0 +1,3 @@
+/Users/adameljaa/Desktop/Code/Term 2/11.5:11.6 Intvector/First Stack /cmake-build-debug/CMakeFiles/First_Stack_.dir
+/Users/adameljaa/Desktop/Code/Term 2/11.5:11.6 Intvector/First Stack /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adameljaa/Desktop/Code/Term 2/11.5:11.6 Intvector/First Stack /cmake-build-debug/CMakeFiles/rebuild_cache.dir

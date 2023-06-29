@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/adameljaa/Desktop/Code/Term 2/11.5:11.6 Intvector/Intvector" -B "/Users/adameljaa/Desktop/Code/Term 2/11.5:11.6 Intvector/Intvector/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/adameljaa/Desktop/Code/Term 2/11.5:11.6 Intvector/Intvector/cmake-build-debug

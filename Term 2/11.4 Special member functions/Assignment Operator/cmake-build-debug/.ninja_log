@@ -1,0 +1,15 @@
+# ninja log v5
+0	457	1678027438239409752	CMakeFiles/Assignment_Operator.dir/main.cpp.o	d777805034eb84f2
+461	516	1678027438300287353	Assignment_Operator	fd2ed5f4fd36b4c0
+2	556	1678027557589705339	CMakeFiles/Assignment_Operator.dir/main.cpp.o	d777805034eb84f2
+556	614	1678027557650301147	Assignment_Operator	fd2ed5f4fd36b4c0
+4	1142	1678029097220043768	CMakeFiles/Assignment_Operator.dir/main.cpp.o	d777805034eb84f2
+1142	1213	1678029097295565798	Assignment_Operator	fd2ed5f4fd36b4c0
+3	547	1678029485821776997	CMakeFiles/Assignment_Operator.dir/main.cpp.o	d777805034eb84f2
+548	600	1678029485877031137	Assignment_Operator	fd2ed5f4fd36b4c0
+3	351	1678029496169301980	CMakeFiles/Assignment_Operator.dir/main.cpp.o	d777805034eb84f2
+351	391	1678029496211859283	Assignment_Operator	fd2ed5f4fd36b4c0
+2	554	1678029549831693915	CMakeFiles/Assignment_Operator.dir/main.cpp.o	d777805034eb84f2
+554	607	1678029549886896680	Assignment_Operator	fd2ed5f4fd36b4c0
+2	370	1678029567928146581	CMakeFiles/Assignment_Operator.dir/main.cpp.o	d777805034eb84f2
+370	410	1678029567970235137	Assignment_Operator	fd2ed5f4fd36b4c0
